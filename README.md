@@ -8,7 +8,7 @@ Full-Stack Developer who builds real-time apps, high-volume backend systems, and
 
 ### Find me elsewhere 🔗
 
-- 🌐 [Portfolio](https://gbengaolajide.onrender.com)
+- 🌐 [Portfolio](https://gbengaolajide.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/the-gbenga-olajide/)
 - 🐦 [X (Twitter)](https://x.com/gbengaolajide01)
 - 📅 [Book a call](https://cal.com/gbenga-olajide/15min)
